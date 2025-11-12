@@ -3,16 +3,7 @@
 This project demonstrates comprehensive research and practical implementation of Nginx web server capabilities. It covers advanced configurations including reverse proxy, load balancing, SSL/TLS, caching, PHP integration, and security hardening.
 
 # Architecture
-AWS Infrastructure Setup
-VPC: 10.0.0.0/16 in us-west-2 region
-Public Subnet: 10.0.1.0/24 (us-west-2a)
-Private Subnet: 10.0.2.0/24 (us-west-2a)
-Internet Gateway: For public subnet internet access
-NAT Gateway: For private subnet outbound internet access
-Route Tables: Public and private routing configurations
-EC2 Instances:
-Public Instance: Nginx server with public IP
-Private Instance: Backend application server
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/zaeemattique/InnovationLab-Task2/refs/heads/main/Task2%20Architecture%20(1).jpg))
 
 # Prerequisites
 AWS Account with appropriate permissions
