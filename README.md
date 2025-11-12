@@ -3,7 +3,7 @@
 This project demonstrates comprehensive research and practical implementation of Nginx web server capabilities. It covers advanced configurations including reverse proxy, load balancing, SSL/TLS, caching, PHP integration, and security hardening.
 
 # Architecture
-![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/zaeemattique/InnovationLab-Task2/refs/heads/main/Task2%20Architecture%20(1).jpg))
+![alt text](https://raw.githubusercontent.com/zaeemattique/InnovationLab-Task2/refs/heads/main/Task2%20Architecture%20(1).jpg)
 
 # Prerequisites
 AWS Account with appropriate permissions
